@@ -26,7 +26,7 @@ Note: please insert the screenshot of the answers to your research question by C
 
 ### Model
 o	Game environment
-In ancient times, countries were endowed with different wealth and military forces of different intensities. Strong countries are always planning to use their military power to attack weak countries and annex their property. Vulnerable countries are always thinking about how to adopt strategies to address risks and protect their property.
+	In ancient times, countries were endowed with different wealth and military forces of different intensities. Strong countries are always planning to use their military power to attack weak countries and annex their property. Vulnerable countries are always thinking about how to adopt strategies to address risks and protect their property.
 	Against this background, this is a trust game abstract from the ancient war between countries. Anyone with high fighting capacity can seize the wealth of those with low fighting capacity. Players with the same fighting capacity cannot seize wealth from each other. Players can form alliances, and their fighting capacity is the sum of both sides. They all want to get more wealth, or at least not worse off. 
 	Each round can be divided into two sessions. One is the decision session: players need to make the decision on whether or not to form alliances and with whom. Then comes the seizing session: players need to decide whether and whom they want to seize based on their fighting capacity. The next round will repeat the same process. The game will end when no one wants to seize other’s wealth.
 
