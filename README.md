@@ -137,7 +137,11 @@ In this part, I will discuss the behavioral experimental research paper *Uninten
 
 		Also, the paper introduces a novel trust metric that incorporates both the reputation and the personal relationship between the VC and the entrepreneur. The trust metric is used to update the reward function and to adjust the learning rate of the algorithm.
 
+* How are the strategies from the reinforcement learning agents inspires you on trust building among humans? <br>
 
+	The dynamic trust process between venture capitalists and entrepreneurs is a process of mutual learning. More specifically, venture capitalists and entrepreneurs make trust decisions based on their interactive experiences. Venture capitalists and entrepreneurs make trust decisions based on the returns at different stages and update their strategies and trust status accordingly. Venture capital firms can monitor the efforts of entrepreneurs by offering fewer investments in the early stages. Entrepreneurs can check the amount of venture capitalists' investment in the later stage to decide how much effort they will put in the future. <br>
+
+	This inspires me that building trust requires both parties to sacrifice some of their interests at a specific time to showcase themselves. Although cooperation is mutually beneficial, before their trust is stable, both parties need to rely on most of their own actions and a small portion of the other party's help to reach some results in a short period, thus demonstrating their potential and credibility. Hence, the best way to gain the trust of people's potential partners as soon as possible is to compromise more interests at the beginning.
 
 ### More about the Author
 - headshot
