@@ -27,20 +27,33 @@ Note: please insert the screenshot of the answers to your research question by C
 ### Model
 o	Game environment
 	In ancient times, countries were endowed with different wealth and military forces of different intensities. Strong countries are always planning to use their military power to attack weak countries and annex their property. Vulnerable countries are always thinking about how to adopt strategies to address risks and protect their property.
+
 	Against this background, this is a trust game abstract from the ancient war between countries. Anyone with high fighting capacity can seize the wealth of those with low fighting capacity. Players with the same fighting capacity cannot seize wealth from each other. Players can form alliances, and their fighting capacity is the sum of both sides. They all want to get more wealth, or at least not worse off. 
-	Each round can be divided into two sessions. One is the decision session: players need to make the decision on whether or not to form alliances and with whom. Then comes the seizing session: players need to decide whether and whom they want to seize based on their fighting capacity. The next round will repeat the same process. The game will end when no one wants to seize other’s wealth.
+
+In this game, players will first need to decide on forming alliances with whom. Then, to persuade other players to ally with him, player 1 promises he won’t seize his partner’s money and can decide to offer some money to his potential partner to show his loyalty. After this, player 1’s target partner can see the money player 1 offer and redecide whether to cooperate with player 1. If they cooperate with player 1, player 1 will seize the remaining player’s money automatically. Next, player 1 will decide whether to break the cooperation and take his partner’s money.
+
 	
 o	Set of players
-We assume that there are three players in this game. Each player has given fighting capacity and wealth.
-Player 1 has 10 billion dollars, and his fighting capacity is 5.
-Player 2 has 3 billion dollars, and his fighting capacity is 2.
-Player 3 has 4 billion dollars, and his fighting capacity is 3.
+We assume that there are three players in this game. Each player has given the fighting capacity and money.
+Player 1 has 10 dollars, and his fighting capacity is 5.
+Player 2 has 3 dollars, and his fighting capacity is 2.
+Player 3 has 4 dollars, and his fighting capacity is 3.
 
-o	Strategies & payoffs
-1.	Player 2 and player 3 form an alliance, sharing 5 attack power. In this way, player 1 cannot attack player 2 and player 3, and player 2 and player 3 can protect their original wealth.
-2.	Player 1, player 2, and player 3 are not aligned, and Player 1 can attack Player 2 and Player 3 respectively. In the end, Player 1 can have 17 billion dollars, while Player 2 and Player 3 can only have 0 billion dollars.
-3.	Player 1 and player 2 align, then player 1 and player 2 can seize player 3's wealth. After looting, Player 1 can loot player 2's wealth again. In this case, player 3 has no interest conflict (he has no money in his pocket), so he has no motivation to help player 2. Finally, Player 1 can have 17 billion dollars, while player 2 and player 3 can only have 0 billion dollars.
-4.	Player 1 and player 3 align, then player 1 and player 3 can seize player 2's wealth. After looting, Player 1 can loot player 3's wealth again. In this case, player 2 has no interest conflict (he has no money in his pocket), so he has no motivation to help player 3. Finally, Player 1 can have 17 billion dollars, while player 2 and player 3 can only have 0 billion dollars.
+
+o	Strategies 
+1.	No matter how much player 1 chooses to offer, player 2 and player 3 form an alliance and share 5 fighting capacities.
+2.	Player 1 offers x dollars to player 2 and player 2 chooses to form an alliance with player 1. After seizing player 3’s money, player 1 breaks his promise and seizes player 2’s money.
+3.	Player 1 offers x dollars to player 2 and player 2 chooses to form an alliance with player 1. After seizing player 3’s money, player 1 keeps his promise and doesn’t seize player 2’s money.
+4.	Player 1 offers x dollars to player 3 and player 3 chooses to form an alliance with player 1. After seizing player 2’s money, player 1 breaks his promise and seizes player 3’s money.
+5.	Player 1 offers x dollars to player 3 and player 3 chooses to form an alliance with player 1. After seizing player 2’s money, player 1 keeps his promise and doesn’t seize player 3’s money.
+
+o	Payoffs (corresponding to the order of the strategies)
+1.	Player 1 cannot attack player 2 and player 3, and player 2 and player 3 can protect their original wealth. As a result, player 1 will have 10 dollars, player 2 will have 3 dollars and player 3 will have 4 dollars.
+2.	As a result, player 1 can have 17 dollars, player 2 and player 3 have 0 dollars.
+3.	As a result, player 1 has (14-x) dollars, player 2 has (3+x) dollars, and player 3 has no dollars.
+4.	As a result, player 1 can have 17 dollars, player 2 and player 3 have 0 dollars.
+5.	As a result, player 1 has (13-x) dollars, player 2 has 0 dollars, and player 3 has (4+x) dollars.
+
 
 o	Solution based on backward induction
 If we assume every player is rational, player 2 and Player 3 will choose to form an alliance, sharing 5 fighting capacities. In this way, player 1 cannot seize their wealth. The situation remains stable, and no one's wealth will increase or lose.
