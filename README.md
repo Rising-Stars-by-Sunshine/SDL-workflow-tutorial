@@ -104,19 +104,40 @@ Player 3 has 4 dollars, and his fighting capacity is 3.<br>
 
 
 ### Spotlight
+
+
 In this part, I will discuss the behavioral experimental research paper *Unintended effects of open data policy in online behavioral research: An experimental investigation of participants’ privacy concerns and research validity* (Liu and Wei 2022). Also, I will discuss the reinforcement learning algorithm paper *Dynamic trust game model between venture capitalists and entrepreneurs based on reinforcement learning theory* (Haiyan 2018). <br>
+
+######Behavioral experimental research paper
 
 * What research question does the behavioral experimental research intend to address? <br>
 
-	This research paper intends to address the problem about what are open-data policy’s effects on participants’ privacy concerns and their willingness to be honest, and what are the potential solutions to rebuild the trust between researchers and participants.
+	This research paper intends to address the problem about what are open-data policy’s effects on participants’ privacy concerns and their willingness to be honest, and what are the potential solutions to remove the unintended effect.
 	
 * How does behavior in the experiments differ from backward induction? <br>
 
-	Based on the backward induction, since participants are worried about privacy violations and don’t trust researchers, they tend not to continue the research or select “choose not to answer”. However, the result of the experiments shows that only the rate of affirmative answers (not their disclosure level) is significantly affected.
+	Based on the backward induction, since participants are worried about privacy violations, they tend not to continue the research or select “choose not to answer”. However, the result of the experiments shows that only the rate of affirmative answers (not their disclosure level) is significantly affected.
 	
 * What is the behavioral (e.g., psychological, social) foundation that underpinning the observed behavior? 
 	1.	Participants care about the payment for attending the research. They don’t want to be rejected by researchers due to their apparent nondisclosure. So they sometimes will force themselves to be disclosed even when they feel uncomfortable.
 	2.	Because people are afraid of privacy leaks, they tend to select answers that are in line with socially approved behaviors.
+
+######Reinforcement learning algorithm paper
+* What is the game environment and the learning algorithm? <br>
+
+	1.	Game environment<br>
+
+		Venture capitalists conduct credit assessments on startups and provide financial support for them; Entrepreneurs receive financial support from venture capital companies and provide returns for them. Investors can profit from their investments, but if other participants do not follow the rules and fulfill their commitments, they will suffer losses. Therefore, trust is risky and uncertain. Venture capitalists and entrepreneurs need to make trust strategies in this situation.
+	
+	2.	Learning algorithm <br>
+	
+		Specifically, this paper uses a variant of the Q-learning algorithm called actor-critic Q-learning to learn the optimal strategy for both the venture capitalists (VCs) and the entrepreneurs in the game. <br>
+		
+		The algorithm consists of two main components: the actor and the critic. The actor is responsible for choosing the actions of the agent (either the VC or the entrepreneur), while the critic evaluates the chosen actions and provides feedback to the actor. The algorithm uses a reward function to determine the value of each action, and the goal is to maximize the cumulative reward over time.<br>
+
+		Also, the paper introduces a novel trust metric that incorporates both the reputation and the personal relationship between the VC and the entrepreneur. The trust metric is used to update the reward function and to adjust the learning rate of the algorithm.
+
+
 
 ### More about the Author
 - headshot
