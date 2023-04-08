@@ -90,6 +90,18 @@ Player 3 has 4 dollars, and his fighting capacity is 3.<br>
 - Equilibruim Evaluations: e.g. belief, strategy, and payoffs
 - oTree Experimental Code 
 
+* Description on how I customize the demo
+	1. Endowment and multiplier <br>
+	In oTree demo, I have changed the number of players to three. Moreover, in addition to having different money, each player is also endowed with different combat abilities. In the game, players will determine the strategy based on their initial combat power. The flow of the game is also pretty different from the demo. Multiplier is not applicable in my game. <br>
+	
+	2. Demonstration <br>
+
+		There are three stages in the game. In the first stage, players first need to understand the consequences of forming an alliance with different players based on the game introduction, and then decide their strategies. If everyone is rational, player 2 will form an alliance with player 3, which means player 1 can’t seize their money.<br>
+	
+		In the second stage, in order to break this balance, player 1 will need to make a decision on how much he is willing to give his target partner to persuade the target partner to collaborate with him. Then his target partner will need to make a decision on whether or not to believe player 1 and cooperate with him. <br>
+
+		In the third stage, once this player is persuaded by the conditions of player 1 and chooses to cooperate with player 1, player 1 will loot another player's wealth, and this player's wealth will be cleared automatically. Then, player 1 will need to make a decision on whether to keep his promise and not rob his partner’s money. After this decision, the game will end. <br>
+
 
 ### Spotlight
 In this part, I will discuss the behavioral experimental research paper *Unintended effects of open data policy in online behavioral research: An experimental investigation of participants’ privacy concerns and research validity* (Liu and Wei 2022). Also, I will discuss the reinforcement learning algorithm paper *Dynamic trust game model between venture capitalists and entrepreneurs based on reinforcement learning theory* (Haiyan 2018). <br>
