@@ -108,11 +108,11 @@ In this part, I will discuss the behavioral experimental research paper *Uninten
 
 * What research question does the behavioral experimental research intend to address? <br>
 
-	This research paper intends to address the problem about what are open-data policy’s effects on participants’ privacy concerns and their willingness to be honest, and what are the potential solutions to remove the unintended effect.
+	This research paper intends to address the problem about what are open-data policy’s effects on participants’ privacy concerns and their willingness to be honest, and what are the potential solutions to rebuild the trust between researchers and participants.
 	
 * How does behavior in the experiments differ from backward induction? <br>
 
-	Based on the backward induction, since participants are worried about privacy violations, they tend not to continue the research or select “choose not to answer”. However, the result of the experiments shows that only the rate of affirmative answers (not their disclosure level) is significantly affected.
+	Based on the backward induction, since participants are worried about privacy violations and don’t trust researchers, they tend not to continue the research or select “choose not to answer”. However, the result of the experiments shows that only the rate of affirmative answers (not their disclosure level) is significantly affected.
 	
 * What is the behavioral (e.g., psychological, social) foundation that underpinning the observed behavior? 
 	1.	Participants care about the payment for attending the research. They don’t want to be rejected by researchers due to their apparent nondisclosure. So they sometimes will force themselves to be disclosed even when they feel uncomfortable.
