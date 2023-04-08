@@ -108,7 +108,7 @@ Player 3 has 4 dollars, and his fighting capacity is 3.<br>
 
 In this part, I will discuss the behavioral experimental research paper *Unintended effects of open data policy in online behavioral research: An experimental investigation of participants’ privacy concerns and research validity* (Liu and Wei 2022). Also, I will discuss the reinforcement learning algorithm paper *Dynamic trust game model between venture capitalists and entrepreneurs based on reinforcement learning theory* (Haiyan 2018). <br>
 
-######Behavioral experimental research paper
+####Behavioral experimental research paper
 
 * What research question does the behavioral experimental research intend to address? <br>
 
@@ -122,7 +122,7 @@ In this part, I will discuss the behavioral experimental research paper *Uninten
 	1.	Participants care about the payment for attending the research. They don’t want to be rejected by researchers due to their apparent nondisclosure. So they sometimes will force themselves to be disclosed even when they feel uncomfortable.
 	2.	Because people are afraid of privacy leaks, they tend to select answers that are in line with socially approved behaviors.
 
-######Reinforcement learning algorithm paper
+####Reinforcement learning algorithm paper
 * What is the game environment and the learning algorithm? <br>
 
 	1.	Game environment<br>
