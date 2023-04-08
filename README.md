@@ -57,6 +57,25 @@ Player 3 has 4 dollars, and his fighting capacity is 3.<br>
 	4.	As a result, player 1 can have 17 dollars, player 2 and player 3 have 0 dollars.<br>
 	5.	As a result, player 1 has (13-x) dollars, player 2 has 0 dollars, and player 3 has (4+x) dollars.<br>
 	
+* Solution based on forward induction <br>
+
+	Here we use forward induction to solve the game. Forward induction is based on the assumption that past play was rational. That is, players may form a belief of what types of other players are by observing their past actions. And players can make decisions based on their beliefs.<br>
+	
+	To disrupt other players’ cooperation, player 1 wants to cooperate with one of the other players, thus seizing the remaining player’s money. To reach cooperation, player 1 promises that he won’t seize his partner’s money after seizing another player’s money and offers part of his money to his partner at the beginning to show his loyalty. <br>
+	
+	Suppose that player2 and player3’s original willingness to form an alliance with player1 is 0 (with a maximum of 1). The more wealth player1 offer to his partner, the more his partner will believe that player1 will not ultimately disrupt their cooperation (i.e., not rob their wealth), and the more he is willing to cooperate with player1. The relationship between other players’ willingness to cooperate and the money player1 offered can be modeled as:
+
+	w=c*(money offered)/(potential partner' s original money),<br>
+	
+	where c refers to a constant parameter.<br>
+	
+	And the willingness for player 1 to break the cooperation and seize his partner’s money can be captured as:<br>
+			w=f(t,m_0,m_p), <br>
+           (+,-,+) <br>
+           
+	where t refers to time, m_0 refers to player1’s current money, m_p refers to his partner’s current money. The longer the time, the more willingness for player1 to break the cooperation. The more money his partner has, the more possibility for player 1 to break his promise. And the money player 1 have is negatively related to his willingness to break the cooperation.<br>
+	
+	Based on this forward induction, the solution is that player 1 will offer money to player 2 and persuade player 2 to form an alliance with him successfully. After cooperating with player 2 and seizing player 3’s money, player1 will break the cooperation and take player 2’s money. Finally, Player 1 can have 17 billion dollars, while player 2 and player 3 can only have 0 billion dollars. <br>
 
 
 
