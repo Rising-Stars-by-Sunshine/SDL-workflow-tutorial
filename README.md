@@ -77,6 +77,11 @@ Player 3 has 4 dollars, and his fighting capacity is 3.<br>
 	
 	Based on this forward induction, the solution is that player 1 will offer money to player 2 and persuade player 2 to form an alliance with him successfully. After cooperating with player 2 and seizing player 3’s money, player1 will break the cooperation and take player 2’s money. Finally, Player 1 can have 17 billion dollars, while player 2 and player 3 can only have 0 billion dollars. <br>
 
+* Efficiency and fairness<br>
+
+	Efficiency: this is not applicable in this game. The total wealth among the three players is given and will not change according to how they behave.<br>
+
+	Fairness: Under this solution, player 1 will get all the money, and player 2 and player 3 will have nothing. Hence, this solution is not a fair solution.
 
 
 ### Code
@@ -87,12 +92,19 @@ Player 3 has 4 dollars, and his fighting capacity is 3.<br>
 
 
 ### Spotlight
-- Posters
-- Figures
-- Slides
-- Presentations
-- Review articles
-- Media appearance
+In this part, I will discuss the behavioral experimental research paper *Unintended effects of open data policy in online behavioral research: An experimental investigation of participants’ privacy concerns and research validity* (Liu and Wei 2022). Also, I will discuss the reinforcement learning algorithm paper *Dynamic trust game model between venture capitalists and entrepreneurs based on reinforcement learning theory* (Haiyan 2018). <br>
+
+* What research question does the behavioral experimental research intend to address? <br>
+
+	This research paper intends to address the problem about what are open-data policy’s effects on participants’ privacy concerns and their willingness to be honest, and what are the potential solutions to remove the unintended effect.
+	
+* How does behavior in the experiments differ from backward induction? <br>
+
+	Based on the backward induction, since participants are worried about privacy violations, they tend not to continue the research or select “choose not to answer”. However, the result of the experiments shows that only the rate of affirmative answers (not their disclosure level) is significantly affected.
+	
+* What is the behavioral (e.g., psychological, social) foundation that underpinning the observed behavior? 
+	1.	Participants care about the payment for attending the research. They don’t want to be rejected by researchers due to their apparent nondisclosure. So they sometimes will force themselves to be disclosed even when they feel uncomfortable.
+	2.	Because people are afraid of privacy leaks, they tend to select answers that are in line with socially approved behaviors.
 
 ### More about the Author
 - headshot
