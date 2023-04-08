@@ -66,6 +66,7 @@ Player 3 has 4 dollars, and his fighting capacity is 3.<br>
 	Suppose that player2 and player3’s original willingness to form an alliance with player1 is 0 (with a maximum of 1). The more wealth player1 offer to his partner, the more his partner will believe that player1 will not ultimately disrupt their cooperation (i.e., not rob their wealth), and the more he is willing to cooperate with player1. The relationship between other players’ willingness to cooperate and the money player1 offered can be modeled as:
 
 	w=c*(money offered)/(potential partner' s original money),<br>
+	![image](figure1.png)
 	
 	where c refers to a constant parameter.<br>
 	
