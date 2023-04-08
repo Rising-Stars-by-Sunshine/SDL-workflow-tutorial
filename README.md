@@ -65,14 +65,13 @@ Player 3 has 4 dollars, and his fighting capacity is 3.<br>
 	
 	Suppose that player2 and player3’s original willingness to form an alliance with player1 is 0 (with a maximum of 1). The more wealth player1 offer to his partner, the more his partner will believe that player1 will not ultimately disrupt their cooperation (i.e., not rob their wealth), and the more he is willing to cooperate with player1. The relationship between other players’ willingness to cooperate and the money player1 offered can be modeled as:
 
-	w=c*(money offered)/(potential partner' s original money),<br>
 	![image](figure1.png)
 	
 	where c refers to a constant parameter.<br>
 	
 	And the willingness for player 1 to break the cooperation and seize his partner’s money can be captured as:<br>
-			w=f(t,m_0,m_p), <br>
-           (+,-,+) <br>
+			
+	![image](figure2.png)
            
 	where t refers to time, m_0 refers to player1’s current money, m_p refers to his partner’s current money. The longer the time, the more willingness for player1 to break the cooperation. The more money his partner has, the more possibility for player 1 to break his promise. And the money player 1 have is negatively related to his willingness to break the cooperation.<br>
 	
