@@ -108,7 +108,7 @@ Player 3 has 4 dollars, and his fighting capacity is 3.<br>
 
 	In the demo trust game, player A has $1000 and player B has $0. If player A choose to give B x dollars, player B will receive 10x dollars. Player A needs to decide how much he wants to give B and then player B needs to decide how much he is willing to give back to A after he receives the money. In this game, although cooperation will benefit both players, since player A and player B are strangers to each other and A cannot form any trust in B, player A tends not to send money to player B. <br>
 	
-	However, in the customized demo, although the cooperation between player 2 and player 3 is the safest for them, player 1 still has a high possibility to cooperate with player 2 or player 3 successfully. Since player 1 has a chance to show his loyalty by offering some money, other players can form beliefs based on player 1’s actions and build trust before they make the final decision of cooperation. In other words, the additional trust-building activities increase the possibility for player 1 to cooperate with others.
+	However, in the customized demo, although the cooperation between player 2 and player 3 is the safest strategy for them, player 1 still has a high possibility to cooperate with player 2 or player 3 successfully. Since player 1 has a chance to show his loyalty by offering some money, other players can form beliefs based on player 1’s actions and build trust before they make the final decision of cooperation. In other words, the additional trust-building activities increase the possibility for player 1 to cooperate with others.
 
 ### Spotlight
 
