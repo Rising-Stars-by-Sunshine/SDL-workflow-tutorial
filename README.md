@@ -146,12 +146,12 @@ In this part, I will discuss the behavioral experimental research paper *Uninten
 	This inspires me that building trust requires both parties to sacrifice some of their interests at a specific time to showcase themselves. Although cooperation is mutually beneficial, before their trust is stable, both parties need to rely on most of their own actions and a small portion of the other party's help to reach some results in a short period, thus demonstrating their potential and credibility. Hence, the best way to gain the trust of people's potential partners as soon as possible is to compromise more interests at the beginning.
 
 ### More about the Author
-- headshot
-- self-introduction
-- Final reflections 
-  - intellectual growth
-  - professional growth
-  - living a purposeful life
+* Self-Intro 
+![image](生活照。jpeg)
+
+My name is Wanlin Deng, and you can also call me Iris. I’m from the class of 2025 and my major is political Economy with a track in economics. I’m interested in the interdisciplinary field of computational economics. Now, I’m working on utilizing all the math, econ and coding knowledge to study economics in a more critical way, and hope to become a competitive person who possesses a truly interdisciplinary capability. <br>
+
+Nice to meet you guys here and look forward to our future cooperation!
 
 ### References
 
