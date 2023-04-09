@@ -1,8 +1,8 @@
 # # Title [How to Choice a Good Title?](https://www.nature.com/articles/s41562-021-01152-2)
 ## Project information
-- **Author**: [First Name][Last Name], [Major], [Class], Duke Kunshan University
+- **Author**: Wanlin Deng, Political Economy/Economics, class of 2025, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
-- **Disclaimer**: Submissions to the Problem Set No. or Final Project for [COMPSCI/ECON 206 Computational Microeconomics, 2023 Spring (Seven Week - Second)](https://ce.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
+- **Disclaimer**: Submissions to the Problem Set 1 for [COMPSCI/ECON 206 Computational Microeconomics, 2023 Spring (Seven Week - Second)](https://ce.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: [How to Acknowledge?](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
 [notes: please include all professors, students, and staff who have contributed to your completetion of the project.]
 - **Project Summary**: 
@@ -77,11 +77,11 @@ Player 3 has 4 dollars, and his fighting capacity is 3.<br>
 	
 	Based on this forward induction, the solution is that player 1 will offer money to player 2 and persuade player 2 to form an alliance with him successfully. After cooperating with player 2 and seizing player 3’s money, player1 will break the cooperation and take player 2’s money. Finally, Player 1 can have 17 billion dollars, while player 2 and player 3 can only have 0 billion dollars. <br>
 
-* Efficiency and fairness<br>
+* Evaluation<br>
 
-	Efficiency: this is not applicable in this game. The total wealth among the three players is given and will not change according to how they behave.<br>
+	Efficiency: The total wealth among the three players is given and will not change according to how they behave. Thus, the efficient level of the equilibrium solution is the same as other solutions.<br>
 
-	Fairness: Under this solution, player 1 will get all the money, and player 2 and player 3 will have nothing. Hence, this solution is not a fair solution.
+	Fairness: Under this solution, player 1 will get all the money, and player 2 and player 3 will have nothing. On an absolute level, player 1 takes all the money. This is not fair. On a relative level, compared to the beginning, player 1 is better off, and player 2 and player 3 are worse off. Hence, this solution is not a fair solution.
 
 
 ### Code
