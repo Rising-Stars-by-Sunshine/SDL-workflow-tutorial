@@ -177,8 +177,28 @@ Liu, Bingjie, and Lewen Wei. 2022. “Unintended Effects of Open Data Policy in 
   volume={104},
   number={6},
   pages={1329--1340},
-  year={2022},
+  year={2018},
   publisher={MIT Press One Rogers Street, Cambridge, MA 02142-1209, USA journals-info~…}
 }
 ```
-
+```
+@article{
+  title={Dynamic Trust Game Model between Venture Capitalists and Entrepreneurs Based on Reinforcement Learning Theory},
+  author={Li,Haiyan},
+  journal={Computers in Human Behavior},
+  volume={October},
+  number={107537},
+  year={2022}
+}
+```
+```
+@article{
+  title={Unintended Effects of Open Data Policy in Online Behavioral Research: An Experimental Investigation of Participants’ Privacy Concerns and Research Validity},
+  author={Liu, Bingjie, and Wei Lewen},
+  journal={Cluster Computing},
+  volume={22},
+  number={S3},
+  pages={5893–5904},
+  year={2022}
+}
+```
