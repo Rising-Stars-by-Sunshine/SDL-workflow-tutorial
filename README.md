@@ -86,7 +86,7 @@ Player 3 has 4 dollars, and his fighting capacity is 3.<br>
 
 ### Code
 * Customized oTree demo code in zip. <br>
-	The code is uploaded to the repository. <br>
+		The code is uploaded to the repository. <br>
 
 
 * Description on how I customize the demo
