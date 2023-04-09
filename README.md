@@ -96,11 +96,13 @@ Player 3 has 4 dollars, and his fighting capacity is 3.<br>
 	
 	2. Demonstration <br>
 
-		There are three stages in the game. In the first stage, players first need to understand the consequences of forming an alliance with different players based on the game introduction, and then decide their strategies. If everyone is rational, player 2 will form an alliance with player 3, which means player 1 can’t seize their money.<br>
+		There are three stages in the game. In the first stage, players first need to understand the consequences of allying with different players based on the game introduction and then decide their strategies. If everyone is rational, player 2 will form an alliance with player 3, which means player 1 can't seize their money.<br>
+		
+		In the second stage, to break this balance, player 1 will need to decide how much he is willing to give his target partner to persuade the target partner to collaborate with him. Then his target partner will need to decide whether to believe player 1 and cooperate with him.<br>
 	
-		In the second stage, in order to break this balance, player 1 will need to make a decision on how much he is willing to give his target partner to persuade the target partner to collaborate with him. Then his target partner will need to make a decision on whether or not to believe player 1 and cooperate with him. <br>
-
-		In the third stage, once this player is persuaded by the conditions of player 1 and chooses to cooperate with player 1, player 1 will loot another player's wealth, and this player's wealth will be cleared automatically. Then, player 1 will need to make a decision on whether to keep his promise and not rob his partner’s money. After this decision, the game will end. <br>
+		In the third stage, once the loyalty of player 1 persuades his target partner and reaches cooperation successfully, player 1 will loot another player's wealth, and this player's wealth will be cleared automatically. Then, player 1 must decide whether to keep his promise and not rob his partner's money. After this decision, the game will end.<br>
+	
+		However, due to the page limit (8 pages) for the free use of oTree, the game demo lacks one waiting page in the third stage. The result will be accurate after player 1 decides whether to break the cooperation. Player 2 and player 3 should wait until player 1 makes the decisions before they click the button to reach the result page. That is, they should wait until they were informed artificially that player 1 had made decisions.<br>
 
 
 ### Spotlight
@@ -155,7 +157,11 @@ In this part, I will discuss the behavioral experimental research paper *Uninten
 
 - Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
 
+Haiyan, Li. 2018. “Dynamic Trust Game Model between Venture Capitalists and Entrepreneurs Based on Reinforcement Learning Theory.” Cluster Computing 22 (S3): 5893–5904. https://doi.org/10.1007/s10586-017-1666-x.
+
 Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *The Review of Economics and Statistics* 104 (6): 1329–40. https://doi.org/10.1162/rest_a_00990.
+
+Liu, Bingjie, and Lewen Wei. 2022. “Unintended Effects of Open Data Policy in Online Behavioral Research: An Experimental Investigation of Participants’ Privacy Concerns and Research Validity.” Computers in Human Behavior, October, 107537. https://doi.org/10.1016/j.chb.2022.107537.
 
 ```
 @article{levin2022bridging,
