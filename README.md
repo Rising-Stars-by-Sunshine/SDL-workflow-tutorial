@@ -85,10 +85,9 @@ Player 3 has 4 dollars, and his fighting capacity is 3.<br>
 
 
 ### Code
-- Game Environment
-- Strategic plays
-- Equilibruim Evaluations: e.g. belief, strategy, and payoffs
-- oTree Experimental Code 
+* Customized oTree demo code in zip. <br>
+	The code is uploaded to the repository. <br>
+
 
 * Description on how I customize the demo
 	1. Endowment and multiplier <br>
@@ -102,7 +101,7 @@ Player 3 has 4 dollars, and his fighting capacity is 3.<br>
 	
 		In the third stage, once the loyalty of player 1 persuades his target partner and reaches cooperation successfully, player 1 will loot another player's wealth, and this player's wealth will be cleared automatically. Then, player 1 must decide whether to keep his promise and not rob his partner's money. After this decision, the game will end.<br>
 	
-		However, due to the page limit (8 pages) for the free use of oTree, the game demo lacks one waiting page in the third stage. The result will be accurate after player 1 decides whether to break the cooperation. Player 2 and player 3 should wait until player 1 makes the decisions before they click the button to reach the result page. That is, they should wait until they were informed artificially that player 1 had made decisions.<br>
+		However, due to the page limit (8 pages) for the free use of oTree, the game demo lacks one waiting page in the third stage. The result will be accurate after player 1 decides whether to break the cooperation. Player 2 and player 3 should wait until player 1 makes the decisions before they click the button to reach the result page. That is, they should wait on the situation overview page until they were informed artificially that player 1 had made decisions.<br>
 
 
 ### Spotlight
