@@ -147,7 +147,8 @@ In this part, I will discuss the behavioral experimental research paper *Uninten
 
 ### More about the Author
 * Self-Intro 
-![image](生活照.png)
+
+<img src="生活照.png" width="100px">
 
 My name is Wanlin Deng, and you can also call me Iris. I’m from the class of 2025 and my major is political Economy with a track in economics. I’m interested in the interdisciplinary field of computational economics. Now, I’m working on utilizing all the math, econ and coding knowledge to study economics in a more critical way, and hope to become a competitive person who possesses a truly interdisciplinary capability. <br>
 
