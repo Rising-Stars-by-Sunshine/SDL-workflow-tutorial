@@ -74,6 +74,7 @@ Player 3 has 4 dollars, and his fighting capacity is 3.<br>
 			
 	![image](figure2.png)
 	$$ w = f(t,m_0,m_p), (+,-,+) $$
+	$$ w = \frac{f(t,m_0,m_p)}{(+,-,+)}$$,
            
 	where t refers to time, m_0 refers to player1’s current money, m_p refers to his partner’s current money. The longer the time, the more willingness for player1 to break the cooperation. The more money his partner has, the more possibility for player 1 to break his promise. And the money player 1 have is negatively related to his willingness to break the cooperation.<br>
 	
