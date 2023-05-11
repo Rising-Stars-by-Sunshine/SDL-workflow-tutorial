@@ -67,6 +67,7 @@ Player 3 has 4 dollars, and his fighting capacity is 3.<br>
 
 	![image](figure1.png)
 	 $$w = c * (money offered) / (potential partner's original money)$$
+	 $$\frac{c \times money offered}{potential partner's original money}$$
 
 	
 	where c refers to a constant parameter.<br>
