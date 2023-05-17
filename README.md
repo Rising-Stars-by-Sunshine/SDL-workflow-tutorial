@@ -42,10 +42,10 @@ Player 2 has 3 dollars, and his fighting capacity is 2.<br>
 Player 3 has 4 dollars, and his fighting capacity is 3.<br>
 
 * Strategies <br>
-	Each player has three strategies.
-	Player 1: ① Not to cooperate ② Cooperate with player 2 and provide x dollars to persuade player2 ③ Cooperate with player3 and provide x dollars to persuade player3
-	Player 2: ① Not to cooperate ② Cooperate with player 1 ③ Cooperate with player3
-	Player 3: ① Not to cooperate ② Cooperate with player 1 ③ Cooperate with player2
+	Each player has three strategies.<br>
+	Player 1: ① Not to cooperate ② Cooperate with player 2 and provide x dollars to persuade player2 ③ Cooperate with player3 and provide x dollars to persuade player3<br>
+	Player 2: ① Not to cooperate ② Cooperate with player 1 ③ Cooperate with player3<br>
+	Player 3: ① Not to cooperate ② Cooperate with player 1 ③ Cooperate with player2<br>
 
 	
 	
