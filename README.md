@@ -129,7 +129,7 @@ In this part, I will discuss the behavioral experimental research paper *Uninten
 	
 * How does behavior in the experiments differ from backward induction? <br>
 
-	Based on the backward induction, since participants are worried about privacy violations, they tend not to continue the research or select “choose not to answer”. However, the result of the experiments shows that only the rate of affirmative answers (not their disclosure level) is significantly affected.
+	Backward induction in game theory is an iterative process of reasoning backward in time, from the end of a problem or situation, to solve finite extensive form and sequential games, and infer a sequence of optimal actions(“Backward Induction” 2019). Based on the backward induction, since participants are worried about privacy violations, they tend not to continue the research or select “choose not to answer”. However, the result of the experiments shows that only the rate of affirmative answers (not their disclosure level) is significantly affected.
 	
 * What is the behavioral (e.g., psychological, social) foundation that underpinning the observed behavior? 
 	1.	Participants care about the payment for attending the research. They don’t want to be rejected by researchers due to their apparent nondisclosure. So they sometimes will force themselves to be disclosed even when they feel uncomfortable.
@@ -144,11 +144,10 @@ In this part, I will discuss the behavioral experimental research paper *Uninten
 	
 	2.	Learning algorithm <br>
 	
-		Specifically, this paper uses a variant of the Q-learning algorithm called actor-critic Q-learning to learn the optimal strategy for both the venture capitalists (VCs) and the entrepreneurs in the game. <br>
+		Q-Learning is a model-free reinforcement learning algorithm used to learn a policy for making decisions in an environment. The algorithm is based on estimating the expected utility or value of an action taken in a given state, which is called the Q-value. The Q-value represents the expected total reward that can be obtained by taking a specific action in a given state and following a specific policy thereafter (Amine 2020). <br>
 		
-		The algorithm consists of two main components: the actor and the critic. The actor is responsible for choosing the actions of the agent (either the VC or the entrepreneur), while the critic evaluates the chosen actions and provides feedback to the actor. The algorithm uses a reward function to determine the value of each action, and the goal is to maximize the cumulative reward over time.<br>
+		This paper uses a variant of the Q-learning algorithm called actor-critic Q-learning (Haiyan 2018) to learn the optimal strategy for both the venture capitalists (VCs) and the entrepreneurs in the game. The algorithm consists of two main components: the actor and the critic. The actor is responsible for choosing the actions of the agent (either the VC or the entrepreneur), while the critic evaluates the chosen actions and provides feedback to the actor. The algorithm uses a reward function to determine the value of each action, and the goal is to maximize the cumulative reward over time.<br>
 
-		Also, the paper introduces a novel trust metric that incorporates both the reputation and the personal relationship between the VC and the entrepreneur. The trust metric is used to update the reward function and to adjust the learning rate of the algorithm.
 
 * How are the strategies from the reinforcement learning agents inspires you on trust building among humans? <br>
 
