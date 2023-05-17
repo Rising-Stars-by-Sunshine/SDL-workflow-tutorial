@@ -59,7 +59,7 @@ Player 3 has 4 dollars, and his fighting capacity is 3.<br>
 	
 * Solution based on forward induction <br>
 
-	Here we use forward induction to solve the game. Forward induction is based on the assumption that past play was rational. That is, players may form a belief of what types of other players are by observing their past actions. And players can make decisions based on their beliefs.<br>
+	Here we use forward induction to solve the game. Forward induction is based on the assumption that past play was rational(Govindan and Wilson 2009). That is, players may form a belief of what types of other players are by observing their past actions. And players can make decisions based on their beliefs.<br>
 	
 	To disrupt other players’ cooperation, player 1 wants to cooperate with one of the other players, thus seizing the remaining player’s money. To reach cooperation, player 1 promises that he won’t seize his partner’s money after seizing another player’s money and offers part of his money to his partner at the beginning to show his loyalty. <br>
 	
