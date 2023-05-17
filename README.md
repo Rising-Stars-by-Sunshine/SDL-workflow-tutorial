@@ -77,12 +77,14 @@ Player 3 has 4 dollars, and his fighting capacity is 3.<br>
 * Evaluation<br>
 
 	Efficiency: 
+	
 	Socially efficiency refers to the optimal distribution of resources in society, taking into account all external costs and benefits as well as internal costs and benefits (Pettinger 2019). Pareto efficiency refers to the situation no one player can be better off without making any other player worse off (“Pareto Efficiency - an Overview | ScienceDirect Topics,” n.d.). <br>
 	
 	In this game, the total payoffs among the three players are given and will not change according to how they behave. Every profile maximizes the sum of payoffs across all players in the game. Thus, this equilibrium solution, as well as other solutions, is socially efficient. Also, since the total payoffs are given, no one can get more payoffs without harming others’ payoffs for every solution. Thus, this equilibrium solution, as well as all other solutions, is Pareto efficient. <br>
 
 
 	Fairness: 
+	
 	In this project we define the solution as outcome fair if all the players finally have the same payoffs. And we defined the solution as gaining fair if all the players can get the same amount of increasing (or decreasing) payoff during the process of playing games.<br>
 	In this solution, player 1 will get all the money, and player 2 and player 3 will have nothing. Players cannot get the same payoffs at the end. Thus, this solution is not outcome fair. Compared to the beginning, player 1 gets 7 more dollars, player 2 losses 3 dollars, and player 3 losses 4 dollars. Hence, this solution is not a gaining fair.<br>
 
