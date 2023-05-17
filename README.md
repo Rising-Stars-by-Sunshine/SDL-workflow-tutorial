@@ -42,15 +42,14 @@ Player 2 has 3 dollars, and his fighting capacity is 2.<br>
 Player 3 has 4 dollars, and his fighting capacity is 3.<br>
 
 * Strategies <br>
+	Each player has three strategies.
+	Player 1: ① Not to cooperate ② Cooperate with player 2 and provide x dollars to persuade player2 ③ Cooperate with player3 and provide x dollars to persuade player3
+	Player 2: ① Not to cooperate ② Cooperate with player 1 ③ Cooperate with player3
+	Player 3: ① Not to cooperate ② Cooperate with player 1 ③ Cooperate with player2
 
-	1.	No matter how much player 1 chooses to offer, player 2 and player 3 form an alliance and share 5 fighting capacities. <br>
-	2.	Player 1 offers x dollars to player 2 and player 2 chooses to form an alliance with player 1. After seizing player 3’s money, player 1 breaks his promise and seizes player 2’s money.<br>
-	3.	Player 1 offers x dollars to player 2 and player 2 chooses to form an alliance with player 1. After seizing player 3’s money, player 1 keeps his promise and doesn’t seize player 2’s money.<br>
-	4.	Player 1 offers x dollars to player 3 and player 3 chooses to form an alliance with player 1. After seizing player 2’s money, player 1 breaks his promise and seizes player 3’s money.<br>
-	5.	Player 1 offers x dollars to player 3 and player 3 chooses to form an alliance with player 1. After seizing player 2’s money, player 1 keeps his promise and doesn’t seize player 3’s money.<br>
 	
 	
-* Payoffs (corresponding to the order of the strategies)<br>
+* Payoffs <br>
 	1.	No matter how much player 1 chooses to offer, player 2 and player 3 form an alliance and share 5 fighting capacities.
 In this case, Player 1 cannot attack player 2 and player 3, and player 2 and player 3 can protect their original wealth. As a result, player 1 will have 10 dollars, player 2 will have 3 dollars and player 3 will have 4 dollars.<br>
 	2.	Player 1 offers x dollars to player 2 and player 2 chooses to form an alliance with player 1. After seizing player 3’s money, player 1 breaks his promise and seizes player 2’s money. As a result, player 1 can have 17 dollars, player 2 and player 3 have 0 dollars.<br>
