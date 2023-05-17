@@ -70,26 +70,22 @@ Player 3 has 4 dollars, and his fighting capacity is 3.<br>
 	
 	where c refers to a constant parameter.<br>
 	
-	And the willingness for player 1 to break the cooperation and seize his partner’s money can be captured as:<br>
-			
-	![image](figure2.png)
-	$$ w = f(t,m_0,m_p)$$
-	$$ w = \frac{f(t,m_0,m_p)}{2}$$,
-	  m~2,m~p
-
-
-
-
-           
-	where t refers to time, m_0 refers to player1’s current money, m_p refers to his partner’s current money. The longer the time, the more willingness for player1 to break the cooperation. The more money his partner has, the more possibility for player 1 to break his promise. And the money player 1 have is negatively related to his willingness to break the cooperation.<br>
+	And the willingness of player 1 to break the cooperation and seize his partner’s money is negatively related to player 1’s current money and positively related to his partner’s current money and time. <br>
 	
 	Based on this forward induction, the solution is that player 1 will offer money to player 2 and persuade player 2 to form an alliance with him successfully. After cooperating with player 2 and seizing player 3’s money, player1 will break the cooperation and take player 2’s money. Finally, Player 1 can have 17 billion dollars, while player 2 and player 3 can only have 0 billion dollars. <br>
 
 * Evaluation<br>
 
-	Efficiency: The total wealth among the three players is given and will not change according to how they behave. Thus, the efficient level of the equilibrium solution is the same as other solutions.<br>
+	Efficiency: 
+	Socially efficiency refers to the optimal distribution of resources in society, taking into account all external costs and benefits as well as internal costs and benefits (Pettinger 2019). Pareto efficiency refers to the situation no one player can be better off without making any other player worse off (“Pareto Efficiency - an Overview | ScienceDirect Topics,” n.d.). <br>
+	
+	In this game, the total payoffs among the three players are given and will not change according to how they behave. Every profile maximizes the sum of payoffs across all players in the game. Thus, this equilibrium solution, as well as other solutions, is socially efficient. Also, since the total payoffs are given, no one can get more payoffs without harming others’ payoffs for every solution. Thus, this equilibrium solution, as well as all other solutions, is Pareto efficient. <br>
 
-	Fairness: Under this solution, player 1 will get all the money, and player 2 and player 3 will have nothing. On an absolute level, player 1 takes all the money. This is not fair. On a relative level, compared to the beginning, player 1 is better off, and player 2 and player 3 are worse off. Hence, this solution is not a fair solution.
+
+	Fairness: 
+	In this project we define the solution as outcome fair if all the players finally have the same payoffs. And we defined the solution as gaining fair if all the players can get the same amount of increasing (or decreasing) payoff during the process of playing games.<br>
+	In this solution, player 1 will get all the money, and player 2 and player 3 will have nothing. Players cannot get the same payoffs at the end. Thus, this solution is not outcome fair. Compared to the beginning, player 1 gets 7 more dollars, player 2 losses 3 dollars, and player 3 losses 4 dollars. Hence, this solution is not a gaining fair.<br>
+
 
 
 ### Code
