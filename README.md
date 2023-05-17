@@ -171,16 +171,28 @@ Nice to meet you guys here and look forward to our future cooperation!
 
 - Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
 
+Amine, Amrani. 2020. “Q-Learning Algorithm: From Explanation to Implementation.” Medium. December 19, 2020. https://towardsdatascience.com/q-learning-algorithm-from-explanation-to-implementation-cdbeda2ea187.
+
+“Backward Induction.” 2019. Investopedia. 2019. https://www.investopedia.com/terms/b/backward-induction.asp.
+
+Govindan, Srihari, and Robert Wilson. 2009. “On Forward Induction.” Econometrica 77 (1): 1–28. https://www.jstor.org/stable/40056520.
+
 Haiyan, Li. 2018. “Dynamic Trust Game Model between Venture Capitalists and Entrepreneurs Based on Reinforcement Learning Theory.” Cluster Computing 22 (S3): 5893–5904. https://doi.org/10.1007/s10586-017-1666-x.
 
 Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *The Review of Economics and Statistics* 104 (6): 1329–40. https://doi.org/10.1162/rest_a_00990.
 
 Liu, Bingjie, and Lewen Wei. 2022. “Unintended Effects of Open Data Policy in Online Behavioral Research: An Experimental Investigation of Participants’ Privacy Concerns and Research Validity.” Computers in Human Behavior, October, 107537. https://doi.org/10.1016/j.chb.2022.107537.
 
+“Pareto Efficiency - an Overview | ScienceDirect Topics.” n.d. Www.sciencedirect.com. https://www.sciencedirect.com/topics/economics-econometrics-and-finance/pareto-efficiency.
+
+Pettinger, Tejvan. 2019. “Social Efficiency.” Economics Help. September 17, 2019. https://www.economicshelp.org/blog/2393/economics/social-efficiency/.
+
+“Strategy (Game Theory).” n.d. Encyclopedia.pub. Accessed May 10, 2023. https://encyclopedia.pub/entry/36857.
+
 ```
 @article{levin2022bridging,
   title={Bridging level-k to nash equilibrium},
-  author={Levin, Dan and Zhang, Luyao},
+  author={Govindan, Srihari, and Robert Wilson},
   journal={Review of Economics and Statistics},
   volume={104},
   number={6},
@@ -208,5 +220,46 @@ Liu, Bingjie, and Lewen Wei. 2022. “Unintended Effects of Open Data Policy in 
   number={S3},
   pages={5893–5904},
   year={2022}
+}
+```
+```
+@article{
+  title={Q-Learning Algorithm: From Explanation to Implementation},
+  author={Amine, Amrani},
+  journal={Medium},
+  year={2020},
+  url={https://towardsdatascience.com/q-learning-algorithm-from-explanation-to-implementation-cdbeda2ea187}
+}
+```
+```
+@article{
+  title={Backward Induction},
+  journal={Medium},
+  year={2019},
+  url={https://www.investopedia.com/terms/b/backward-induction.asp}
+}
+```
+```
+@article{
+  title={Pareto Efficiency - an Overview | ScienceDirect Topics.},
+  author={Pettinger, Tejvan},
+  year={2019},
+  journal={Economics Help.},
+  url={https://www.economicshelp.org/blog/2393/economics/social-efficiency/](https://www.economicshelp.org/blog/2393/economics/social-efficiency/}
+}
+```
+```
+@article{
+  title={Pareto Efficiency - an Overview | ScienceDirect Topics.},
+  url={https://www.economicshelp.org/blog/2393/economics/social-efficiency/}
+}
+```
+```
+@article{
+  title={On Forward Induction},
+  journal={Econometrica},
+  year={2009},
+  pages={1--28},
+  url={https://towardsdatascience.com/q-learning-algorithm-from-explanation-to-implementation-cdbeda2ea187](https://www.investopedia.com/terms/b/backward-induction.asp)](https://www.jstor.org/stable/40056520}
 }
 ```
