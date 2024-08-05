@@ -24,16 +24,16 @@ This dataset contains records of reported crimes (excluding murders, which are d
 
 ### Preview of the Data
 | ID  | Case Number | Date | Block | IUCR|Primary Type| Description |
-| ----| ------------| -----|-------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| ----| ------------| -----|-------|-----|-----|-----|
 | 13243446  | JG462969  | 10/12/2023 01:50:00 PM| 007XX W 31ST ST|	860	|THEFT	|RETAIL THEFT|
 
 
 |Location Description |Arrest	|Domestic |Beat	|Ward| FBI Code |X Coordinate |Y Coordinate|
-|-------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|-------|-----|-----|-----|-----|-----|-----|-----|
 |	SMALL RETAIL STORE| FALSE |FALSE|	915	|11	|6	|1171721	|1884329	|
 
 |Year|Updated On	| Latitude| Longitude| Location|
-|-----|-----|-----|-----|-----|-----|
+|-----|-----|-----|-----|-----|
 |2023	|10/20/2023 03:45:23 PM| 41.83805721|	-87.64537032	|(41.838057207, -87.645370318)|
 
 
