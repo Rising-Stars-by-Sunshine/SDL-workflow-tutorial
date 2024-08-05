@@ -45,6 +45,8 @@ The sample result is shown here.
 
 ![Workflow Diagram]([Sample view of the result.png](https://github.com/Rising-Stars-by-Sunshine/SDL-workflow-tutorial/blob/c560255739a1d2194e7a2793e63fed10a86c8796/Sample%20view%20of%20the%20result.png))
 
+<img src="Sample view of the result.png" width="100px">
+
 
 You can download the KNIME Workflow here. You can import the workflow to KNIME in your computer and replicate the workflow easily.
 
