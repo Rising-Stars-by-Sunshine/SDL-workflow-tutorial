@@ -43,7 +43,7 @@ This workflow demonstrates a complete process of data processing and geospatial 
 
 The sample result is shown here.
 
-![Workflow Diagram](Sample view of the result.png)
+![Workflow Diagram]([Sample view of the result.png](https://github.com/Rising-Stars-by-Sunshine/SDL-workflow-tutorial/blob/c560255739a1d2194e7a2793e63fed10a86c8796/Sample%20view%20of%20the%20result.png))
 
 
 You can download the KNIME Workflow here. You can import the workflow to KNIME in your computer and replicate the workflow easily.
