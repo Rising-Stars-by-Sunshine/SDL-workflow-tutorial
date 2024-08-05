@@ -41,6 +41,8 @@ This dataset contains records of reported crimes (excluding murders, which are d
 ## KNIME Workflow
 This workflow demonstrates a complete process of data processing and geospatial visualization using KNIME. First, the CSV Reader node is used to load data from a CSV file, and the Table View node checks if the data is loaded correctly. Next, the Column Filter node selects the necessary columns, filtering out the unneeded data. Then, the Lat/Lon to Geometry node converts latitude and longitude data into a geometry format for further processing. Subsequently, the Nominal Value Row Filter node removes rows with missing data to ensure data integrity. Finally, the Geospatial View node performs geospatial visualization, presenting the processed data visually. This workflow effectively transitions data from the raw CSV file to the final geospatial visualization with clear and logical steps.
 
+<img src="Workflow display" width="1000px">
+
 The sample result is shown here.
 
 
