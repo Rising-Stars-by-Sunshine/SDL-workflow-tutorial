@@ -43,6 +43,8 @@ This workflow demonstrates a complete process of data processing and geospatial 
 
 The sample result is shown here.
 
+![Workflow Diagram](Sample view of the result.png)
+
 
 You can download the KNIME Workflow here. You can import the workflow to KNIME in your computer and replicate the workflow easily.
 
