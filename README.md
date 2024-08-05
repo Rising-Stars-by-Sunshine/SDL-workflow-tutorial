@@ -50,7 +50,7 @@ The sample result is shown here.
 <img src="Sample view of the result.png" width="1000px">
 
 
-You can download the KNIME Workflow [here]([https://github.com/Rising-Stars-by-Sunshine/SDL-workflow-tutorial/blob/c560255739a1d2194e7a2793e63fed10a86c8796/Sample%20view%20of%20the%20result.png](https://github.com/Rising-Stars-by-Sunshine/SDL-workflow-tutorial/blob/be67a8d02e667f30e984d17d293ce7bb19702c1a/KNIME_project.knwf]). You can import the workflow to KNIME in your computer and replicate the workflow easily.
+You can download the KNIME Workflow [here](https://github.com/Rising-Stars-by-Sunshine/SDL-workflow-tutorial/blob/be67a8d02e667f30e984d17d293ce7bb19702c1a/KNIME_project.knwf). You can import the workflow to KNIME in your computer and replicate the workflow easily.
 
 ## Reference
 Brantingham, P. L., & Brantingham, P. J. (1981). Environmental Criminology. Sage Publications.
