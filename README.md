@@ -31,7 +31,7 @@ In addition, this study will choose Chicago as the representative city. Chicago 
 
 
 ## Data
-This dataset contains records of reported crimes (excluding murders, which are documented for each individual victim) that have taken place in the City of Chicago from 2001 to the present. The data is sourced from the [Chicago Police Department's CLEAR (Citizen Law Enforcement Analysis and Reporting) system](https://home.chicagopolice.org/statistics-data/). You can find the data via the [link](bridgeport_crime_by_longitude_latitude_location_20240803.csv).
+This dataset contains records of reported crimes (excluding murders, which are documented for each individual victim) that have taken place in the City of Chicago from 2001 to the present. The data is sourced from the Chicago Police Department's CLEAR (Citizen Law Enforcement Analysis and Reporting) system. You can find the data in the [Github](bridgeport_crime_by_longitude_latitude_location_20240803.csv) or via the [original website](https://data.cityofchicago.org/Public-Safety/bridgeport-crime-by-longitude-latitude-location/srg9-gsb8/about_data).
 
 ### Preview of the Data
 | ID  | Case Number | Date | Block | IUCR|Primary Type| Description |
