@@ -2,7 +2,14 @@
 
 ## Proposal
 
-<img src="Overview of the project.png" width="1000px">
+
+
+ <p align="center">
+  < img src="Overview of the project.png" alt="Sample Image" width="350"/>
+</p >
+<p align="center">
+  <em>Figure 1: Flowchart of the project.</em>
+</p >
 
 The study of the association between location descriptions and specific types of crime aims to understand the spatial distribution characteristics of criminal behavior. This understanding is crucial for preventing crime, formulating policing strategies, and urban planning. Numerous studies have shown that different types of criminal behavior exhibit significant spatial clustering, which is closely related to socio-economic characteristics, environmental conditions, and human activities at specific locations.
 Brantingham and Brantingham (1981) proposed the Crime Pattern Theory, which posits that criminal behavior is concentrated in certain locations that typically possess features attracting criminal activities, such as commercial areas and entertainment venues. Sherman (1995) found that 50% of crimes are concentrated in 5% of locations, which are usually high-crime areas. The distribution characteristics of different types of crime vary across different locations. For example, theft and robbery are often prevalent in stores and commercial districts, while schools and residential areas may be hotspots for violent crimes and drug-related offenses. Felson and Clarke (1998) noted that location characteristics, such as accessibility and surveillance, significantly impact the type of crime that occurs.
@@ -42,19 +49,24 @@ This dataset contains records of reported crimes (excluding murders, which are d
 
 
 
-## KNIME Workflow
+## KNIME Workflow and Configuration
 This workflow demonstrates a complete process of data processing and geospatial visualization using KNIME. First, the CSV Reader node is used to load data from a CSV file, and the Table View node checks if the data is loaded correctly. Next, the Column Filter node selects the necessary columns, filtering out the unneeded data. Then, the Lat/Lon to Geometry node converts latitude and longitude data into a geometry format for further processing. Subsequently, the Nominal Value Row Filter node removes rows with missing data to ensure data integrity. Finally, the Geospatial View node performs geospatial visualization, presenting the processed data visually. This workflow effectively transitions data from the raw CSV file to the final geospatial visualization with clear and logical steps.
 
 <img src="Workflow Display.png" width="1000px">
 
+First, you need to modify the data path to ensure that the file can be properly loaded. 
 
 <img src="CSV reader configuration.png" width="1000px">
 
+Then, filter out the useful columns, including ID, Date, Block, Primary Type, Description, and Location Description. 
+
 <img src="Column filter configuration.png" width="1000px">
 
-
+Next, in the row filter, select the "Location" column and choose "Exclude" in the Missing value handling to remove crime records without geographic location information. 
 
 <img src="Row filter configuration.png" width="1000px">
+
+Finally, configure the necessary information to be displayed on the map in the "Geospatial view" node.
 
 <img src="Geospatial view configuration.png" width="1000px">
 
