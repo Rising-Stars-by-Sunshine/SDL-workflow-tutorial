@@ -54,7 +54,7 @@ The sample result is shown here.
 <img src="Sample view of the result.png" width="1000px">
 
 
-You can download the KNIME Workflow [here](https://github.com/Rising-Stars-by-Sunshine/SDL-workflow-tutorial/blob/be67a8d02e667f30e984d17d293ce7bb19702c1a/KNIME_project.knwf). You can import the workflow to KNIME in your computer and replicate the workflow easily.
+You can download the KNIME Workflow [in the Github](https://github.com/Rising-Stars-by-Sunshine/SDL-workflow-tutorial/blob/be67a8d02e667f30e984d17d293ce7bb19702c1a/KNIME_project.knwf). You can import the workflow to KNIME in your computer and replicate the workflow easily. Or you can go to the [KNIME hub](https://hub.knime.com/wanlin_deng/spaces/Public/KNIME_project~SfmkAWdjz4a2YP59/current-state) and drag the workflow to your software directly.
 
 ## Reference
 Brantingham, P. L., & Brantingham, P. J. (1981). Environmental Criminology. Sage Publications.
@@ -64,4 +64,4 @@ Sherman, L. W. (1995). Hot Spots of Crime and Criminal Careers: A Randomized Con
 Felson, M., & Clarke, R. V. (1998). Opportunity Makes the Thief: Practical Theory for Crime Prevention. Home Office, Research, Development and Statistics Directorate.
 
 }
-```
+
