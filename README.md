@@ -10,7 +10,9 @@ Brantingham and Brantingham (1981) proposed the Crime Pattern Theory, which posi
 Research on the association between location descriptions and crime types needs to consider multiple factors, such as socio-economic conditions and environmental characteristics. Existing studies in this area are still insufficient. Thus, the proposed research will aim to answer the following question:
 
 **1.	What are the distribution characteristics of different types of crime in various locations?**
+
 **2.	Which location descriptions are significantly associated with specific types of crime?**
+
 **3.	How do socio-economic conditions and environmental characteristics affect the spatial distribution of criminal behavior?**
 
 
