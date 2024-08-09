@@ -54,6 +54,11 @@ This workflow demonstrates a complete process of data processing and geospatial 
 
 <img src="Workflow Display.png" width="1000px">
 
+<div style="text-align: center;">
+    <img src="Workflow Display.png" width="1000px">
+    <p><em>Figure 1: Workflow display showing the sequence of steps in the project.</em></p>
+</div>
+
 First, you need to modify the data path to ensure that the file can be properly loaded. 
 
 <img src="CSV reader configuration.png" width="1000px">
