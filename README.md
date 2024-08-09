@@ -4,12 +4,12 @@
 
 
 
- <p align="center">
-  < img src="Overview of the project.png" alt="Sample Image" width="350"/>
-</p >
-<p align="center">
-  <em>Figure 1: Flowchart of the project.</em>
-</p >
+<div style="text-align: center;">
+    <img src="Overview of the project.png" width="1000px">
+    <p><em>Figure 1: Workflow of this project.</em></p>
+</div>
+
+
 
 The study of the association between location descriptions and specific types of crime aims to understand the spatial distribution characteristics of criminal behavior. This understanding is crucial for preventing crime, formulating policing strategies, and urban planning. Numerous studies have shown that different types of criminal behavior exhibit significant spatial clustering, which is closely related to socio-economic characteristics, environmental conditions, and human activities at specific locations.
 Brantingham and Brantingham (1981) proposed the Crime Pattern Theory, which posits that criminal behavior is concentrated in certain locations that typically possess features attracting criminal activities, such as commercial areas and entertainment venues. Sherman (1995) found that 50% of crimes are concentrated in 5% of locations, which are usually high-crime areas. The distribution characteristics of different types of crime vary across different locations. For example, theft and robbery are often prevalent in stores and commercial districts, while schools and residential areas may be hotspots for violent crimes and drug-related offenses. Felson and Clarke (1998) noted that location characteristics, such as accessibility and surveillance, significantly impact the type of crime that occurs.
@@ -52,36 +52,51 @@ This dataset contains records of reported crimes (excluding murders, which are d
 ## KNIME Workflow and Configuration
 This workflow demonstrates a complete process of data processing and geospatial visualization using KNIME. First, the CSV Reader node is used to load data from a CSV file, and the Table View node checks if the data is loaded correctly. Next, the Column Filter node selects the necessary columns, filtering out the unneeded data. Then, the Lat/Lon to Geometry node converts latitude and longitude data into a geometry format for further processing. Subsequently, the Nominal Value Row Filter node removes rows with missing data to ensure data integrity. Finally, the Geospatial View node performs geospatial visualization, presenting the processed data visually. This workflow effectively transitions data from the raw CSV file to the final geospatial visualization with clear and logical steps.
 
-<img src="Workflow Display.png" width="1000px">
 
 <div style="text-align: center;">
     <img src="Workflow Display.png" width="1000px">
-    <p><em>Figure 1: Workflow display showing the sequence of steps in the project.</em></p>
+    <p><em>Figure 2: Workflow display showing the sequence of steps in the project.</em></p>
 </div>
 
 First, you need to modify the data path to ensure that the file can be properly loaded. 
 
-<img src="CSV reader configuration.png" width="1000px">
+<div style="text-align: center;">
+    <img src="CSV reader configuration.png" width="1000px">
+    <p><em>Figure 3: CSV reader configuration.</em></p>
+</div>
 
 Then, filter out the useful columns, including ID, Date, Block, Primary Type, Description, and Location Description. 
 
-<img src="Column filter configuration.png" width="1000px">
+<div style="text-align: center;">
+    <img src="Column filter configuration.png" width="1000px">
+    <p><em>Figure 4: Column filter configuration.</em></p>
+</div>
+
 
 Next, in the row filter, select the "Location" column and choose "Exclude" in the Missing value handling to remove crime records without geographic location information. 
 
-<img src="Row filter configuration.png" width="1000px">
+<div style="text-align: center;">
+    <img src="Row filter configuration.png" width="1000px">
+    <p><em>Figure 5: Row filter configuration.</em></p>
+</div>
 
 Finally, configure the necessary information to be displayed on the map in the "Geospatial view" node.
 
-<img src="Geospatial view configuration.png" width="1000px">
+<div style="text-align: center;">
+    <img src="Geospatial view configuration.png" width="1000px">
+    <p><em>Figure 6: Row filter configuration.</em></p>
+</div>
 
 
 
 The sample result is shown here.
 
+<div style="text-align: center;">
+    <img src="Sample view of the result.png" width="1000px">
+    <p><em>Figure 3: Sample view of the result.</em></p>
+</div>
 
 
-<img src="Sample view of the result.png" width="1000px">
 
 
 You can download the KNIME Workflow [in the Github](https://github.com/Rising-Stars-by-Sunshine/SDL-workflow-tutorial/blob/be67a8d02e667f30e984d17d293ce7bb19702c1a/KNIME_project.knwf). You can import the workflow to KNIME in your computer and replicate the workflow easily. Or you can go to the [KNIME hub](https://hub.knime.com/wanlin_deng/spaces/Public/KNIME_project~SfmkAWdjz4a2YP59/current-state) and drag the workflow to your software directly.
