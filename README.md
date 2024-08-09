@@ -2,14 +2,16 @@
 
 ## Proposal
 
+<img src="Overview of the project.png" width="1000px">
+
 The study of the association between location descriptions and specific types of crime aims to understand the spatial distribution characteristics of criminal behavior. This understanding is crucial for preventing crime, formulating policing strategies, and urban planning. Numerous studies have shown that different types of criminal behavior exhibit significant spatial clustering, which is closely related to socio-economic characteristics, environmental conditions, and human activities at specific locations.
 Brantingham and Brantingham (1981) proposed the Crime Pattern Theory, which posits that criminal behavior is concentrated in certain locations that typically possess features attracting criminal activities, such as commercial areas and entertainment venues. Sherman (1995) found that 50% of crimes are concentrated in 5% of locations, which are usually high-crime areas. The distribution characteristics of different types of crime vary across different locations. For example, theft and robbery are often prevalent in stores and commercial districts, while schools and residential areas may be hotspots for violent crimes and drug-related offenses. Felson and Clarke (1998) noted that location characteristics, such as accessibility and surveillance, significantly impact the type of crime that occurs.
 
 Research on the association between location descriptions and crime types needs to consider multiple factors, such as socio-economic conditions and environmental characteristics. Existing studies in this area are still insufficient. Thus, the proposed research will aim to answer the following question:
 
-1.	What are the distribution characteristics of different types of crime in various locations?
-2.	Which location descriptions are significantly associated with specific types of crime?
-3.	How do socio-economic conditions and environmental characteristics affect the spatial distribution of criminal behavior?
+**1.	What are the distribution characteristics of different types of crime in various locations?**
+**2.	Which location descriptions are significantly associated with specific types of crime?**
+**3.	How do socio-economic conditions and environmental characteristics affect the spatial distribution of criminal behavior?**
 
 
 
