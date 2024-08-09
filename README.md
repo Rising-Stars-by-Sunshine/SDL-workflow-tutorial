@@ -47,6 +47,19 @@ This workflow demonstrates a complete process of data processing and geospatial 
 
 <img src="Workflow Display.png" width="1000px">
 
+
+<img src="CSV reader configuration.png" width="1000px">
+
+<img src="Column filter configuration.png" width="1000px">
+
+
+
+<img src="Row filter configuration.png" width="1000px">
+
+<img src="Geospatial view configuration.png" width="1000px">
+
+
+
 The sample result is shown here.
 
 
