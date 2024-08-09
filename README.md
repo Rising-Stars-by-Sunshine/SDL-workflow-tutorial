@@ -11,7 +11,7 @@
 
 
 
-The study of the association between location descriptions and specific types of crime aims to understand the spatial distribution characteristics of criminal behavior. This understanding is crucial for preventing crime, formulating policing strategies, and urban planning. Numerous studies have shown that different types of criminal behavior exhibit significant spatial clustering[[1]](#footnote1), which is closely related to socio-economic characteristics, environmental conditions, and human activities at specific locations.
+The study of the association between location descriptions and specific types of crime aims to understand the spatial distribution characteristics of criminal behavior. This understanding is crucial for preventing crime, formulating policing strategies, and urban planning. Numerous studies have shown that different types of criminal behavior exhibit significant spatial clustering[[1]](#footnote1), which is closely related to socio-economic characteristics[[2]](#footnote2), environmental conditions[[3]](#footnote3), and human activities[[4]](#footnote4) at specific locations.
 Brantingham and Brantingham (1981) proposed the Crime Pattern Theory, which posits that criminal behavior is concentrated in certain locations that typically possess features attracting criminal activities, such as commercial areas and entertainment venues. Sherman (1995) found that 50% of crimes are concentrated in 5% of locations, which are usually high-crime areas. The distribution characteristics of different types of crime vary across different locations. For example, theft and robbery are often prevalent in stores and commercial districts, while schools and residential areas may be hotspots for violent crimes and drug-related offenses. Felson and Clarke (1998) noted that location characteristics, such as accessibility and surveillance, significantly impact the type of crime that occurs.
 
 Research on the association between location descriptions and crime types needs to consider multiple factors, such as socio-economic conditions and environmental characteristics. Existing studies in this area are still insufficient. Thus, the proposed research will aim to answer the following question:
@@ -24,7 +24,7 @@ Research on the association between location descriptions and crime types needs 
 
 
 
-This study aims to systematically analyze the association between location descriptions and specific types of crime, using spatiotemporal data to identify high-risk locations and crime types, thereby providing a basis for targeted crime prevention strategies.
+This study aims to systematically analyze the association between location descriptions[[5]](#footnote5) and specific types of crime, using spatiotemporal data [[6]](#footnote6)to identify high-risk locations and crime types, thereby providing a basis for targeted crime prevention strategies.
 
 
 In addition, this study will choose Chicago as the representative city. Chicago is a large, diverse city with a wide range of socio-economic conditions, environmental settings, and urban layouts, making it an ideal microcosm for studying crime patterns that can be extrapolated to other urban areas. The city has a long history of detailed crime data collection, providing a rich temporal dataset essential for analyzing trends and patterns over time. Known for its significant crime rates, Chicago serves as a critical area of study for understanding the underlying factors and developing effective crime prevention strategies. Furthermore, the city experiences a broad spectrum of crime types, from violent crimes to property crimes, allowing for a comprehensive analysis of how different crimes correlate with specific location descriptions.
@@ -110,5 +110,10 @@ Felson, M., & Clarke, R. V. (1998). Opportunity Makes the Thief: Practical Theor
 
 ## Footnote
 
-1. <a name="footnote1"></a> Spatial Clustering: Refers to the phenomenon where similar types of criminal behavior are concentrated in specific geographic areas. This often indicates that certain locations, due to their environmental or socio-economic characteristics, are more prone to specific types of crime. 
+1. <a name="footnote1"></a> Spatial Clustering: Refers to the phenomenon where similar types of criminal behavior are concentrated in specific geographic areas. This often indicates that certain locations, due to their environmental or socio-economic characteristics, are more prone to specific types of crime.
+2. <a name="footnote2"></a> Socio-economic Characteristics: Includes social and economic factors such as income levels, employment status, and education levels. These factors are often correlated with crime rates. For example, economically disadvantaged areas may be more susceptible to property crimes.
+3. <a name="footnote3"></a> Environmental Conditions: Refers to the physical environment and infrastructure of a specific location, such as lighting, road layout, and public transportation facilities. These conditions can influence the crime rate in an area. For instance, poorly lit areas may be more prone to criminal activity.
+4. <a name="footnote4"></a> Human Activities: Encompasses various activities that people engage in at specific locations, such as shopping, entertainment, or attending school. These activities can impact the types and frequency of crimes that occur in an area.
+5. <a name="footnote5"></a> Location Descriptions: Refers to the characteristics or features of a specific location, which may include its function (e.g., stores, schools, residential areas) or attributes (e.g., remote, easily accessible). Different location descriptions may be associated with different types of crime.
+6. <a name="footnote6"></a> Geospatial Data: Contains information about geographical locations, used to analyze the spatial distribution and correlation of criminal behavior. This type of data typically includes coordinates, addresses, and area names.
 
