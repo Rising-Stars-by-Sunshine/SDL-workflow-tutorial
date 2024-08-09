@@ -1,6 +1,6 @@
 # Research on the Association between Location Descriptions and Specific Types of Crime
 
-## Proposal
+## Overview of the Project
 
 
 
@@ -92,7 +92,7 @@ Finally, configure the necessary information to be displayed on the map in the "
 The sample result is shown here.
 
 <div style="text-align: center;">
-    <img src="Sample view of the result.png" width="800px">
+    <img src="Pictures/Sample view of the result.png" width="800px">
     <p><em>Figure 3: Sample view of the result.</em></p>
 </div>
 
