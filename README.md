@@ -50,7 +50,7 @@ This dataset contains records of reported crimes (excluding murders, which are d
 
 
 ## KNIME Workflow and Configuration
-This workflow demonstrates a complete process of data processing and geospatial visualization using KNIME. First, the CSV Reader node is used to load data from a CSV file, and the Table View node checks if the data is loaded correctly. Next, the Column Filter node selects the necessary columns, filtering out the unneeded data. Then, the Lat/Lon to Geometry node converts latitude and longitude data into a geometry format for further processing. Subsequently, the Nominal Value Row Filter node removes rows with missing data to ensure data integrity. Finally, the Geospatial View node performs geospatial visualization, presenting the processed data visually. This workflow effectively transitions data from the raw CSV file to the final geospatial visualization with clear and logical steps.
+This workflow demonstrates a complete process of data processing and geospatial visualization using KNIME. First, the CSV Reader node is used to load data from a CSV file, and the Table View node checks if the data is loaded correctly. Next, the Column Filter node selects the necessary columns, filtering out the unneeded data. Then, the Lat/Lon to Geometry node converts latitude and longitude data into a geometry format for further processing. Subsequently, the Nominal Value Row Filter node removes rows with missing data to ensure data integrity. Finally, the Geospatial View node performs geospatial visualization, presenting the processed data visually. This workflow effectively transitions data from the raw CSV file to the final geospatial visualization with clear and logical steps. You can download the KNIME Workflow [in the Github](https://github.com/Rising-Stars-by-Sunshine/SDL-workflow-tutorial/blob/be67a8d02e667f30e984d17d293ce7bb19702c1a/KNIME_project.knwf). You can import the workflow to KNIME in your computer and replicate the workflow easily. Or you can go to the [KNIME hub](https://hub.knime.com/wanlin_deng/spaces/Public/KNIME_project~SfmkAWdjz4a2YP59/current-state) and drag the workflow to your software directly.
 
 
 <div style="text-align: center;">
@@ -93,13 +93,13 @@ The sample result is shown here.
 
 <div style="text-align: center;">
     <img src="Pictures/Sample view of the result.png" width="800px">
-    <p><em>Figure 3: Sample view of the result.</em></p>
+    <p><em>Figure 7: Sample view of the result.</em></p>
 </div>
 
 
 
 
-You can download the KNIME Workflow [in the Github](https://github.com/Rising-Stars-by-Sunshine/SDL-workflow-tutorial/blob/be67a8d02e667f30e984d17d293ce7bb19702c1a/KNIME_project.knwf). You can import the workflow to KNIME in your computer and replicate the workflow easily. Or you can go to the [KNIME hub](https://hub.knime.com/wanlin_deng/spaces/Public/KNIME_project~SfmkAWdjz4a2YP59/current-state) and drag the workflow to your software directly.
+
 
 ## Reference
 Brantingham, P. L., & Brantingham, P. J. (1981). Environmental Criminology. Sage Publications.
