@@ -5,7 +5,7 @@
 
 
 <div style="text-align: center;">
-    <img src="Overview of the project.png" width="1000px">
+    <img src="Pictures/Overview of the project.png" width="1000px">
     <p><em>Figure 1: Workflow of this project.</em></p>
 </div>
 
