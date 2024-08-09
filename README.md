@@ -54,21 +54,21 @@ This workflow demonstrates a complete process of data processing and geospatial 
 
 
 <div style="text-align: center;">
-    <img src="Workflow Display.png" width="800px">
+    <img src="Pictures/Workflow Display.png" width="800px">
     <p><em>Figure 2: Workflow display showing the sequence of steps in the project.</em></p>
 </div>
 
 First, you need to modify the data path to ensure that the file can be properly loaded. 
 
 <div style="text-align: center;">
-    <img src="CSV reader configuration.png" width="800px">
+    <img src="Pictures/CSV reader configuration.png" width="800px">
     <p><em>Figure 3: CSV reader configuration.</em></p>
 </div>
 
 Then, filter out the useful columns, including ID, Date, Block, Primary Type, Description, and Location Description. 
 
 <div style="text-align: center;">
-    <img src="Column filter configuration.png" width="800px">
+    <img src="Pictures/Column filter configuration.png" width="800px">
     <p><em>Figure 4: Column filter configuration.</em></p>
 </div>
 
@@ -76,14 +76,14 @@ Then, filter out the useful columns, including ID, Date, Block, Primary Type, De
 Next, in the row filter, select the "Location" column and choose "Exclude" in the Missing value handling to remove crime records without geographic location information. 
 
 <div style="text-align: center;">
-    <img src="Row filter configuration.png" width="800px">
+    <img src="Pictures/Row filter configuration.png" width="800px">
     <p><em>Figure 5: Row filter configuration.</em></p>
 </div>
 
 Finally, configure the necessary information to be displayed on the map in the "Geospatial view" node.
 
 <div style="text-align: center;">
-    <img src="Geospatial view configuration.png" width="800px">
+    <img src="Pictures/Geospatial view configuration.png" width="800px">
     <p><em>Figure 6: Row filter configuration.</em></p>
 </div>
 
