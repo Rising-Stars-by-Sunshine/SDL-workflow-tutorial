@@ -7,7 +7,7 @@ Prof. Luyao Zhang, Duke Kunshan University
 
 Prof. Xiao Huang, Emory University
 
-## SPATIAL DATA LAB (SDL) INTERNSHIP PROGRAM
+## Spatial Data Lab (SDL) Internship Program
 
 The Spatial Data Lab (SDL) internship program is designed to provide academic learning experience for high school, undergraduate and graduate students. It offers tailored professional training based on a student’s academic or career interests. This internship will provide hands-on experience in utilizing open-source tools, workflow technology, geospatial data, spatial modeling, and their applications across different fields. An internship gives a student the opportunity to experience the entire life-cycle of academic research, gain hands-on experience in cutting-edge technologies, explore career directions, develop technical skills as well as leadership abilities. (Link to the program:Link: https://sdl.gis.harvard.edu/)
 
