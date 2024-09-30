@@ -1,5 +1,6 @@
 # Research on the Association between Location Descriptions and Specific Types of Crime
 Mentee: Wanlin Deng, Duke Kunshan University, Political Economy/Economics
+
 Mentors:   
 Prof. Luyao Zhang, Duke Kunshan University 
 Prof. Xiao Huang, Emory University
